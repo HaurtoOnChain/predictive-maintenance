@@ -4,7 +4,7 @@
 
 ### Introduction:
 
-This project has been done in fulfillment to the First Capstone Project requirement of Springboard Data Science Career Track Bootcamp. The work on the project was mentored by [Alex Chao](https://www.linkedin.com/in/alexchao56/). 
+This project has been done in fulfillment to the First Capstone Project requirement of Springboard Data Science Career Track Bootcamp.
 
 The project objective is to enhance the maintenance operations and planning of time-based preventive maintenance by applying data science techniques and machine learning algorithms for predicting more accurate maintenance requirements.
 
